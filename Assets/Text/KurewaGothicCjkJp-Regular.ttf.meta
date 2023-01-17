@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5caa0579fe30edd4c9eea6cfd348e8bf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kurewa Gothic CJK JP
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: acc82881e4e61a74a899acf0bfba690a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
